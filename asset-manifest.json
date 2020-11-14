@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/adolfoherrera1417/party-zone/static/css/main.836eac81.chunk.css",
-    "main.js": "/adolfoherrera1417/party-zone/static/js/main.2ff0b9d1.chunk.js",
-    "main.js.map": "/adolfoherrera1417/party-zone/static/js/main.2ff0b9d1.chunk.js.map",
-    "runtime-main.js": "/adolfoherrera1417/party-zone/static/js/runtime-main.57a97f38.js",
-    "runtime-main.js.map": "/adolfoherrera1417/party-zone/static/js/runtime-main.57a97f38.js.map",
-    "static/js/2.8b5ee8b4.chunk.js": "/adolfoherrera1417/party-zone/static/js/2.8b5ee8b4.chunk.js",
-    "static/js/2.8b5ee8b4.chunk.js.map": "/adolfoherrera1417/party-zone/static/js/2.8b5ee8b4.chunk.js.map",
-    "static/js/3.5bbbdf75.chunk.js": "/adolfoherrera1417/party-zone/static/js/3.5bbbdf75.chunk.js",
-    "static/js/3.5bbbdf75.chunk.js.map": "/adolfoherrera1417/party-zone/static/js/3.5bbbdf75.chunk.js.map",
-    "index.html": "/adolfoherrera1417/party-zone/index.html",
-    "static/css/main.836eac81.chunk.css.map": "/adolfoherrera1417/party-zone/static/css/main.836eac81.chunk.css.map",
-    "static/js/2.8b5ee8b4.chunk.js.LICENSE.txt": "/adolfoherrera1417/party-zone/static/js/2.8b5ee8b4.chunk.js.LICENSE.txt",
-    "static/media/Lane.bd10f75b.jpeg": "/adolfoherrera1417/party-zone/static/media/Lane.bd10f75b.jpeg",
-    "static/media/Mikey.dbb544d7.jpeg": "/adolfoherrera1417/party-zone/static/media/Mikey.dbb544d7.jpeg",
-    "static/media/Spooky.922d932b.jpeg": "/adolfoherrera1417/party-zone/static/media/Spooky.922d932b.jpeg",
-    "static/media/Nav.css": "/adolfoherrera1417/party-zone/static/media/super-boom-regular.96b936fd.otf"
+    "main.css": "/party-zone/static/css/main.a654168c.chunk.css",
+    "main.js": "/party-zone/static/js/main.2ff0b9d1.chunk.js",
+    "main.js.map": "/party-zone/static/js/main.2ff0b9d1.chunk.js.map",
+    "runtime-main.js": "/party-zone/static/js/runtime-main.b707238f.js",
+    "runtime-main.js.map": "/party-zone/static/js/runtime-main.b707238f.js.map",
+    "static/js/2.8b5ee8b4.chunk.js": "/party-zone/static/js/2.8b5ee8b4.chunk.js",
+    "static/js/2.8b5ee8b4.chunk.js.map": "/party-zone/static/js/2.8b5ee8b4.chunk.js.map",
+    "static/js/3.5bbbdf75.chunk.js": "/party-zone/static/js/3.5bbbdf75.chunk.js",
+    "static/js/3.5bbbdf75.chunk.js.map": "/party-zone/static/js/3.5bbbdf75.chunk.js.map",
+    "index.html": "/party-zone/index.html",
+    "static/css/main.a654168c.chunk.css.map": "/party-zone/static/css/main.a654168c.chunk.css.map",
+    "static/js/2.8b5ee8b4.chunk.js.LICENSE.txt": "/party-zone/static/js/2.8b5ee8b4.chunk.js.LICENSE.txt",
+    "static/media/Lane.bd10f75b.jpeg": "/party-zone/static/media/Lane.bd10f75b.jpeg",
+    "static/media/Mikey.dbb544d7.jpeg": "/party-zone/static/media/Mikey.dbb544d7.jpeg",
+    "static/media/Spooky.922d932b.jpeg": "/party-zone/static/media/Spooky.922d932b.jpeg",
+    "static/media/Nav.css": "/party-zone/static/media/super-boom-regular.96b936fd.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.57a97f38.js",
+    "static/js/runtime-main.b707238f.js",
     "static/js/2.8b5ee8b4.chunk.js",
-    "static/css/main.836eac81.chunk.css",
+    "static/css/main.a654168c.chunk.css",
     "static/js/main.2ff0b9d1.chunk.js"
   ]
 }
