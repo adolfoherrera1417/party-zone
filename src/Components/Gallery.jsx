@@ -1,6 +1,5 @@
 import React from 'react';
 
-import { tileData } from "../photo";
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 
 import Container from 'react-bootstrap/Container';

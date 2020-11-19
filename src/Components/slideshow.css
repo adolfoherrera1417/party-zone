@@ -1,14 +1,17 @@
 .slideshow {
     margin: 2rem auto;
-    width: 800px;
     --borderWidth: 5px;
-    position: relative;
     border-radius: var(--borderWidth);
     justify-content: center;
-    text-align: center;
-    height: auto;
 }
-
+.slideshow img {
+  height: calc(50vh - 100px);
+  width: auto;
+  margin: 0 auto;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+}
   
   
   .slideshow:after {
@@ -37,11 +40,3 @@
     background-position: 0% 50%;
     }
   }
-
-
-
-@media only screen and (max-width: 576px) {
-    .slideshow {
-        width: 400px;
-    }
-}

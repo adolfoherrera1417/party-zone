@@ -36,6 +36,9 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/partyhat3.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_gamerahead.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_4.jpg?raw=true"
    },
    {
@@ -84,6 +87,9 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/drink_starbucks.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_fortnitelogo.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/butterfly.jpg?raw=true"
    },
    {
@@ -105,6 +111,9 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/PrincessCrown.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_fortnitellama.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/social_youtube.jpg?raw=true"
    },
    {
@@ -112,6 +121,9 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Cake5.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/star_RedandBlueStars.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Cake4.jpg?raw=true"
@@ -124,6 +136,9 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/social_PinkSnap.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Cake6.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/HairDryer.jpg?raw=true"
@@ -157,6 +172,9 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Cake2.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_bluecontroller.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Unicorn1.jpg?raw=true"
@@ -195,10 +213,16 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/baloonYellow.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_RedController.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/carnival_Birthday.jpg?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_basketball.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/gaming_raven.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/heels.jpg?raw=true"
@@ -211,18 +235,6 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/rainbow.jpg?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/printers.jpg?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/stapler.jpg?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/apple.jpg?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/calculator.jpg?raw=true"
    }
 ]
 

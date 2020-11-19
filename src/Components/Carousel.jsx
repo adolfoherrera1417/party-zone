@@ -6,6 +6,7 @@ import Slider from "react-slick";
 import Lane from '../Assets/SlideShow/Lane.jpeg';
 import Mikey from '../Assets/SlideShow/Mikey.jpeg';
 import Spooky from '../Assets/SlideShow/Spooky.jpeg';
+import { Container } from 'react-bootstrap';
 
 import "./slideshow.css";
 
@@ -22,11 +23,12 @@ export default class Carousel extends Component {
             slidesToScroll: 1,
             autoplay: 1,
             autoplaySpeed: 3000,
-            className: "slideshow"
+            className: "slideshow",
+            draggable: false,
           };
 
         return (
-            <div>
+            <Container style={{textAlign: "center", justifyContent: "center"}}>
                 <Slider {...settings}>
                     <div>
                         <img src={Lane}/>
@@ -38,7 +40,7 @@ export default class Carousel extends Component {
                         <img src={Spooky} />
                     </div>
                 </Slider>
-            </div>
+            </Container>
         )
     }
 }
