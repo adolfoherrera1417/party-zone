@@ -3,9 +3,12 @@ import React, { Component } from 'react'
 
 import Slider from "react-slick";
 
-import Lane from '../Assets/SlideShow/Lane.jpeg';
-import Mikey from '../Assets/SlideShow/Mikey.jpeg';
-import Spooky from '../Assets/SlideShow/Spooky.jpeg';
+import AdOne from '../Assets/SlideShow/AdOne.jpg';
+import Gold from '../Assets/SlideShow/GoldLetterJCarlos.jpg';
+import Gradiant from '../Assets/SlideShow/gradiant.jpg';
+import Orange from '../Assets/SlideShow/OrangeSetup.jpg';
+import Spooky from '../Assets/SlideShow/spooky.jpg'
+
 import { Container } from 'react-bootstrap';
 
 import "./slideshow.css";
@@ -31,13 +34,19 @@ export default class Carousel extends Component {
             <Container style={{textAlign: "center", justifyContent: "center"}}>
                 <Slider {...settings}>
                     <div>
-                        <img src={Lane}/>
+                        <img src={AdOne}/>
                     </div>
                     <div>
-                        <img src={Mikey} />
+                        <img src={Gold} />
                     </div>
                     <div>
                         <img src={Spooky} />
+                    </div>
+                    <div>
+                        <img src={Gradiant} />
+                    </div>
+                    <div>
+                        <img src={Orange} />
                     </div>
                 </Slider>
             </Container>
