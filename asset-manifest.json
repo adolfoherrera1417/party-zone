@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/party-zone/static/css/main.1d7bb5f6.chunk.css",
-    "main.js": "/party-zone/static/js/main.cc206556.chunk.js",
-    "main.js.map": "/party-zone/static/js/main.cc206556.chunk.js.map",
+    "main.js": "/party-zone/static/js/main.be626eab.chunk.js",
+    "main.js.map": "/party-zone/static/js/main.be626eab.chunk.js.map",
     "runtime-main.js": "/party-zone/static/js/runtime-main.b707238f.js",
     "runtime-main.js.map": "/party-zone/static/js/runtime-main.b707238f.js.map",
     "static/js/2.2ada601f.chunk.js": "/party-zone/static/js/2.2ada601f.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/Mikey.dbb544d7.jpeg": "/party-zone/static/media/Mikey.dbb544d7.jpeg",
     "static/media/Multi.132d7d11.JPG": "/party-zone/static/media/Multi.132d7d11.JPG",
     "static/media/MultiBlackBorder.b796af09.JPG": "/party-zone/static/media/MultiBlackBorder.b796af09.JPG",
+    "static/media/Orange.93d435fb.JPG": "/party-zone/static/media/Orange.93d435fb.JPG",
     "static/media/Spooky.922d932b.jpeg": "/party-zone/static/media/Spooky.922d932b.jpeg",
     "static/media/abcBlack.23d4eb82.JPG": "/party-zone/static/media/abcBlack.23d4eb82.JPG",
     "static/media/abcGold.8bd63f03.JPG": "/party-zone/static/media/abcGold.8bd63f03.JPG",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.b707238f.js",
     "static/js/2.2ada601f.chunk.js",
     "static/css/main.1d7bb5f6.chunk.css",
-    "static/js/main.cc206556.chunk.js"
+    "static/js/main.be626eab.chunk.js"
   ]
 }
