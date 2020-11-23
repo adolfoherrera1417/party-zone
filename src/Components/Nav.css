@@ -8,12 +8,24 @@
     justify-content: center;
     min-height: 10em;
     text-align: center;
+    flex-direction: row;
 }
 
 .nav h1 {
-    margin-left: 10px;
     font-size: 74px;
     margin: auto 1rem;
+    font-family: 'super-boom';
+}
+
+.social {
+    width: auto;
+    background-color: #DEF2F1;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+}
+.social a {
     font-family: 'super-boom';
 }
 

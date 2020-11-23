@@ -9,6 +9,7 @@ import Green from '../Assets/LetterStyles/Green.JPG';
 import Multi from '../Assets/LetterStyles/Multi.JPG';
 import MultiBlack from '../Assets/LetterStyles/MultiBlackBorder.JPG';
 import Orange from '../Assets/LetterStyles/Orange.JPG';
+import RedWhite from '../Assets/LetterStyles/RedWhite.JPG'
 
 import ABCGold from '../Assets/LetterStyles/abcGold.JPG';
 import ABCBlack from '../Assets/LetterStyles/abcBlack.JPG';
@@ -47,6 +48,10 @@ export default class LetterGallery extends Component {
                     <Col xs={6} md={4}>
                         <Image src={Orange} thumbnail />
                         <p>HBD - Orange</p>
+                    </Col>
+                    <Col xs={6} md={4}>
+                        <Image src={RedWhite} thumbnail />
+                        <p>HBD - Red and White</p>
                     </Col>
                     <Col xs={6} md={4}>
                         <Image src={ABCBlack} thumbnail />

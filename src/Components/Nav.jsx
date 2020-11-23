@@ -1,6 +1,10 @@
 import React, { Component } from 'react'
 import { Container } from 'react-bootstrap';
 import Navbar from 'react-bootstrap/Navbar'
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebookSquare} from '@fortawesome/free-brands-svg-icons'
+
 import "./Nav.css";
 
 export default class Nav extends Component {
@@ -8,7 +12,11 @@ export default class Nav extends Component {
     return (
       <div>
         <Container className="nav" fluid>
-          <h1 id="comapny-name" >Party Zone Letters</h1>
+          <h1 id="comapny-name">Party Zone Letters</h1>       
+        </Container>
+
+        <Container fluid className="social">
+          <a href="https://www.facebook.com/partyzoneletters">Contact us on <FontAwesomeIcon style={{color: "#3b5998"}} icon={faFacebookSquare} size='lg'/></a>
         </Container>
 
         <Container className="postNav" fluid>
@@ -20,7 +28,6 @@ export default class Nav extends Component {
               </Navbar.Collapse>
             </Container>
           </Navbar>
-         
         </Container>
       </div>
       
