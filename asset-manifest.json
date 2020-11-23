@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9b490ca0.chunk.css",
-    "main.js": "/static/js/main.6069faa3.chunk.js",
-    "main.js.map": "/static/js/main.6069faa3.chunk.js.map",
+    "main.js": "/static/js/main.3598b8f0.chunk.js",
+    "main.js.map": "/static/js/main.3598b8f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37e455a8.js",
     "runtime-main.js.map": "/static/js/runtime-main.37e455a8.js.map",
     "static/js/2.dd1762c2.chunk.js": "/static/js/2.dd1762c2.chunk.js",
@@ -23,6 +23,8 @@
     "static/media/OrangeSetup.0e821a0a.jpg": "/static/media/OrangeSetup.0e821a0a.jpg",
     "static/media/RedWhite.a6d69863.JPG": "/static/media/RedWhite.a6d69863.JPG",
     "static/media/abcBlack.7ea9428d.JPG": "/static/media/abcBlack.7ea9428d.JPG",
+    "static/media/abcBoy.9e9a4d7b.JPG": "/static/media/abcBoy.9e9a4d7b.JPG",
+    "static/media/abcGirl.9c1e1ada.JPG": "/static/media/abcGirl.9c1e1ada.JPG",
     "static/media/abcGold.700066bd.JPG": "/static/media/abcGold.700066bd.JPG",
     "static/media/gradiant.8a3490cf.jpg": "/static/media/gradiant.8a3490cf.jpg",
     "static/media/spooky.c4a4a7b7.jpg": "/static/media/spooky.c4a4a7b7.jpg",
@@ -32,6 +34,6 @@
     "static/js/runtime-main.37e455a8.js",
     "static/js/2.dd1762c2.chunk.js",
     "static/css/main.9b490ca0.chunk.css",
-    "static/js/main.6069faa3.chunk.js"
+    "static/js/main.3598b8f0.chunk.js"
   ]
 }
