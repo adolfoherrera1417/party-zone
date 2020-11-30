@@ -15,6 +15,7 @@ import ABCGold from '../Assets/LetterStyles/abcGold.JPG';
 import ABCBlack from '../Assets/LetterStyles/abcBlack.JPG';
 import ABCBoy from '../Assets/LetterStyles/abcBoy.JPG';
 import ABCGirl from '../Assets/LetterStyles/abcGirl.JPG';
+import itsGirl from '../Assets/LetterStyles/itsGirl.jpg';
 
 
 import Row from 'react-bootstrap/Row'
@@ -70,6 +71,10 @@ export default class LetterGallery extends Component {
                     <Col xs={6} md={4}>
                         <Image src={ABCGirl} thumbnail />
                         <p>ABC Multi-Light *For Name ONLY</p>
+                    </Col>
+                    <Col xs={6} md={4}>
+                        <Image src={itsGirl} thumbnail />
+                        <p>It's A Girl</p>
                     </Col>
                 </Row>
             </Container>
