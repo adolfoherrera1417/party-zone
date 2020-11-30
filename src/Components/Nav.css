@@ -57,3 +57,10 @@
         font-size: 3em;
     }
 }
+
+.nav #contact {
+    font-family: 'super-boom';
+    color: #3b5998;
+    letter-spacing: 2px;
+    font-size: 24px;
+}

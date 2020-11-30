@@ -14,7 +14,7 @@ export default class Nav extends Component {
   constructor() {
     super();
     this.state = {
-      width:  340
+      width:  400
     }
   }
 
@@ -22,7 +22,7 @@ export default class Nav extends Component {
     if(window.innerWidth < 500) {
       this.setState({ width: 290 });
     } else {
-      this.setState({ width: 340,});
+      this.setState({ width: 400,});
     }
   }
 

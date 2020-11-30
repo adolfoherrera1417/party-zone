@@ -8,6 +8,7 @@ import Gallery from './Components/Gallery.jsx';
 import Carousel from './Components/Carousel.jsx';
 import { Container } from 'react-bootstrap';
 import Footer from './Components/Footer.jsx';
+import Policies from './Components/Policies.jsx'
 
 import { tileData, babyPaths, HalloweenPaths } from "/Users/adolfohome/Documents/PartyZoneLetters/party-zone/src/photo.js";
 
@@ -37,6 +38,7 @@ export default function App() {
         <Gallery section={"General Party Signs!"} data={tileData}/>
         <Gallery section={"Baby Shower Signs!"} data={babyPaths}/>
         <Gallery section={"Halloween Party Signs!"} data={HalloweenPaths}/>
+        <Policies />
       </body>
 
       <footer>
