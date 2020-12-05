@@ -120,6 +120,9 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/baloonYellow.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/cake_green.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/Cake8.jpg?raw=true"
    },
    {
@@ -157,6 +160,36 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_basketball.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_qb.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_pennetTwo.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_footballssmall.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_cowboylove.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_basenall3.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_baseball1.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_baseball2.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_baseball4.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_footballRunningback.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/sports_pennetOne.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/drink_cherry.jpg?raw=true"
@@ -235,6 +268,39 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/carnival_clowns1.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_cap.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_boots.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_candycanes.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_glasses.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_present.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_ornaments.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_merryandbright.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_mints.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_knomes.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/present_redandBlue.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_trees.JPG?raw=true"
    }
 ]
 
@@ -256,7 +322,7 @@ export const babyPaths = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/babybirdgirl.jpg?raw=true"
-   }
+   },
 ]
 
 export const HalloweenPaths = [
