@@ -45,6 +45,9 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_4.jpg?raw=true"
    },
    {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_glasses.JPG?raw=true"
+   },
+   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_PartyEmoji.jpg?raw=true"
    },
    {
@@ -61,6 +64,9 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/presentYellow.jpg?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/present_redandBlue.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/present_color.jpg?raw=true"
@@ -279,9 +285,6 @@ export const tileData = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_candycanes.JPG?raw=true"
    },
    {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/emoji_glasses.JPG?raw=true"
-   },
-   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_present.JPG?raw=true"
    },
    {
@@ -295,9 +298,6 @@ export const tileData = [
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_knomes.JPG?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/present_redandBlue.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/christmas_trees.JPG?raw=true"
