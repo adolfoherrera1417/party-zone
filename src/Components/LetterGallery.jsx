@@ -16,6 +16,9 @@ import ABCBlack from '../Assets/LetterStyles/abcBlack.JPG';
 import ABCBoy from '../Assets/LetterStyles/abcBoy.JPG';
 import ABCGirl from '../Assets/LetterStyles/abcGirl.JPG';
 import itsGirl from '../Assets/LetterStyles/itsGirl.jpg';
+import Roy from '../Assets/LetterStyles/Roy.JPG';
+import Purple from '../Assets/LetterStyles/Purple.JPG';
+import Pink from '../Assets/LetterStyles/Pink.JPG';
 
 
 import Row from 'react-bootstrap/Row'
@@ -47,6 +50,18 @@ export default class LetterGallery extends Component {
                     <Col xs={6} md={4}>
                         <Image src={MultiBlack} thumbnail />
                         <p>HBD - Multi-Color w/BlackBorder</p>
+                    </Col>
+                    <Col xs={6} md={4}>
+                        <Image src={Roy} thumbnail />
+                        <p>HBD - ROYGBIV</p>
+                    </Col>
+                    <Col xs={6} md={4}>
+                        <Image src={Pink} thumbnail />
+                        <p>HBD - Pink</p>
+                    </Col>
+                    <Col xs={6} md={4}>
+                        <Image src={Purple} thumbnail />
+                        <p>HBD - Purple</p>
                     </Col>
                     <Col xs={6} md={4}>
                         <Image src={Orange} thumbnail />

@@ -10,7 +10,7 @@ import { Container } from 'react-bootstrap';
 import Footer from './Components/Footer.jsx';
 import Policies from './Components/Policies.jsx'
 
-import { tileData, babyPaths, HalloweenPaths } from "/Users/adolfohome/Documents/PartyZoneLetters/party-zone/src/photo.js";
+import { tileData, babyPaths, HalloweenPaths, GradPaths } from "/Users/adolfohome/Documents/PartyZoneLetters/party-zone/src/photo.js";
 
 
 export default function App() {
@@ -38,6 +38,7 @@ export default function App() {
         <Gallery section={"General Party Signs!"} data={tileData}/>
         <Gallery section={"Baby Shower Signs!"} data={babyPaths}/>
         <Gallery section={"Halloween Party Signs!"} data={HalloweenPaths}/>
+        <Gallery section={"Graduate Signs!"} data={GradPaths}/>
         <Policies />
       </body>
 

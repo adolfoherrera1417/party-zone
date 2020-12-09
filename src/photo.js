@@ -384,28 +384,28 @@ export const GradPaths = [
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_congrats.JPG?raw=true"
    },
    {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_emoji.JPG?raw=true"
-   },
-   {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_utrgvtexaslogo.JPG?raw=true"
-   },
-   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_2020.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_emoji.JPG?raw=true"
    },
    {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_arrow.JPG?raw=true"
    },
    {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_utrgvhorselogo.JPG?raw=true"
-   },
-   {
       "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_diploma.JPG?raw=true"
    },
    {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_vsup.JPG?raw=true"
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_cap.JPG?raw=true"
    },
    {
-      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_cap.JPG?raw=true"
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_utrgvtexaslogo.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_utrgvhorselogo.JPG?raw=true"
+   },
+   {
+      "path":"https://github.com/adolfoherrera1417/party-zone/blob/main/public/Images/grad_vsup.JPG?raw=true"
    },
 ]
 
