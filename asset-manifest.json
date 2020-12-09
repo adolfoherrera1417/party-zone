@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4541fa45.chunk.css",
-    "main.js": "/static/js/main.927a9eca.chunk.js",
-    "main.js.map": "/static/js/main.927a9eca.chunk.js.map",
+    "main.js": "/static/js/main.78b7f6dc.chunk.js",
+    "main.js.map": "/static/js/main.78b7f6dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5f019534.js",
     "runtime-main.js.map": "/static/js/runtime-main.5f019534.js.map",
     "static/js/2.4ab0facb.chunk.js": "/static/js/2.4ab0facb.chunk.js",
@@ -22,8 +22,11 @@
     "static/media/MultiBlackBorder.5d7fdbcc.JPG": "/static/media/MultiBlackBorder.5d7fdbcc.JPG",
     "static/media/Orange.d6aa2a25.JPG": "/static/media/Orange.d6aa2a25.JPG",
     "static/media/OrangeSetup.0e821a0a.jpg": "/static/media/OrangeSetup.0e821a0a.jpg",
+    "static/media/Pink.335ac73e.JPG": "/static/media/Pink.335ac73e.JPG",
     "static/media/Pricing.ffa41e13.jpg": "/static/media/Pricing.ffa41e13.jpg",
+    "static/media/Purple.d12e4b79.JPG": "/static/media/Purple.d12e4b79.JPG",
     "static/media/RedWhite.a6d69863.JPG": "/static/media/RedWhite.a6d69863.JPG",
+    "static/media/Roy.b6159b06.JPG": "/static/media/Roy.b6159b06.JPG",
     "static/media/abcBlack.7ea9428d.JPG": "/static/media/abcBlack.7ea9428d.JPG",
     "static/media/abcBoy.9e9a4d7b.JPG": "/static/media/abcBoy.9e9a4d7b.JPG",
     "static/media/abcGirl.9c1e1ada.JPG": "/static/media/abcGirl.9c1e1ada.JPG",
@@ -37,6 +40,6 @@
     "static/js/runtime-main.5f019534.js",
     "static/js/2.4ab0facb.chunk.js",
     "static/css/main.4541fa45.chunk.css",
-    "static/js/main.927a9eca.chunk.js"
+    "static/js/main.78b7f6dc.chunk.js"
   ]
 }
